@@ -7,7 +7,6 @@ Being this the first semester, the idea was to use pretty basic programing stuff
 
 I really liked the idea of 2 players and created a PVP tank wars with timed upgrades that spawn overtime. Both player controllers are in the same script, we really weren't supposed to do something this complex. But it worked out ok and learned a lot.
 
-Github: alelawler/T-Wars (github.com)​
 Player 1: WASD to move, space to shoot
 
 Player 2: ARROWS to move, blockNum enter to shoot.
